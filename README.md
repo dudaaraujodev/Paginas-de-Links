@@ -31,12 +31,12 @@ Este projeto é uma página responsiva para centralizar os principais links de u
 - Links clicáveis com ícones
 - Cores e textos personalizáveis
 
-[21:55, 01/08/2025] Duda: ## 🚀 Visualização do projeto
+## 🚀 Visualização do projeto
 
 🔗 [Clique aqui para ver online](https://dudaaraujodev.github.io/Paginas-de-Links/)  
 📂 [Acesse o código no GitHub](https://github.com/dudaaraujodev/Paginas-de-Links)
-[21:56, 01/08/2025] Duda: ## 💬 Contato
 
+## 💬 Contato
 
 - E-mail: [mariae.araujooliveira@gmail.com]
 
