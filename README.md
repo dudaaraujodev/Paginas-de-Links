@@ -21,6 +21,25 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
+## 🌐 Mini Página de Links (Estilo Linktree)
+
+Este projeto é uma página responsiva para centralizar os principais links de uma pessoa ou negócio – como redes sociais, WhatsApp, site, portfólio etc.
+
+## ✨ Funcionalidades
+
+- Layout moderno e adaptado para celular
+- Links clicáveis com ícones
+- Cores e textos personalizáveis
+
+[21:55, 01/08/2025] Duda: ## 🚀 Visualização do projeto
+
+🔗 [Clique aqui para ver online](https://dudaaraujodev.github.io/Paginas-de-Links/)  
+📂 [Acesse o código no GitHub](https://github.com/dudaaraujodev/Paginas-de-Links)
+[21:56, 01/08/2025] Duda: ## 💬 Contato
+
+
+- E-mail: [mariae.araujooliveira@gmail.com]
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
